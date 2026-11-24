@@ -1,0 +1,9 @@
+protobuf==7.36.2
+pyarrow==26.0.1
+python-multipart==0.0.34
+rpds-py==2026.9.1
+typing_extensions==4.16.0
+tzdata==2026.6
+urllib3==2.8.0
+watchdog==7.1.1
+websockets==17.4
